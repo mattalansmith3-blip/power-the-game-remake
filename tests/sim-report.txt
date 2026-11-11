@@ -1,0 +1,9 @@
+2 players (normal): avg rounds 18.2, median 17, max 60, timeouts 3/1000, wins by seat 48% / 52%
+3 players (normal): avg rounds 13.0, median 12, max 54, timeouts 0/1000, wins by seat 36% / 24% / 40%
+4 players (normal): avg rounds 16.0, median 15, max 60, timeouts 10/1000, wins by seat 23% / 24% / 25% / 27%
+2 players (easy): avg rounds 20.4, median 18, max 60, timeouts 3/300, wins by seat 41% / 59%
+3 players (easy): avg rounds 18.3, median 15, max 60, timeouts 1/300, wins by seat 48% / 4% / 48%
+4 players (easy): avg rounds 22.0, median 19, max 60, timeouts 4/300, wins by seat 23% / 24% / 32% / 21%
+2 players (hard): avg rounds 16.6, median 17, max 35, timeouts 0/300, wins by seat 46% / 54%
+3 players (hard): avg rounds 20.1, median 18, max 53, timeouts 0/300, wins by seat 46% / 8% / 46%
+4 players (hard): avg rounds 22.9, median 17, max 60, timeouts 46/300, wins by seat 33% / 21% / 18% / 29%
